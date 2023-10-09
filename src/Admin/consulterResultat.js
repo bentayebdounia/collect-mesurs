@@ -8,7 +8,7 @@ function CosulterResultat() {
             "heure" :  "15:00",
             "date" : "2023-10-08",
             "localisation" : "15 , 16 -Oran",
-            "type_mesure" : "",
+            "type_mesure" : "m²",
             "valeur_mesure" : "15"
         },
         {
@@ -16,7 +16,7 @@ function CosulterResultat() {
             "heure" :  "15:00",
             "date" : "2023-10-08",
             "localisation" : "15 , 16 -Oran",
-            "type_mesure" : "",
+            "type_mesure" : "m²",
             "valeur_mesure" : "15"
         },
         {
@@ -24,7 +24,7 @@ function CosulterResultat() {
             "heure" :  "15:00",
             "date" : "2023-10-08",
             "localisation" : "15 , 16 -Oran",
-            "type_mesure" : "",
+            "type_mesure" : "m²",
             "valeur_mesure" : "15"
         },
         {
@@ -32,7 +32,7 @@ function CosulterResultat() {
             "heure" :  "10:00",
             "date" : "2023-10-08",
             "localisation" : "17 , 16 -Oran",
-            "type_mesure" : "",
+            "type_mesure" : "m²",
             "valeur_mesure" : "15"
         }
     ]
