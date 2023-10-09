@@ -1,0 +1,67 @@
+  .authentification{
+        text-align: center;
+    }
+
+   p{
+    
+        font-family: "Inter-Regular", Helvetica;
+        font-size: 50px;
+        padding-top: 20px; 
+        
+        
+      } 
+    
+    #log{
+        color: #ffffff;
+    }
+
+    #title{
+        color: #468e8b;
+
+    }
+    
+  .rectangle {
+    background-color: #d7efed;
+    height: 600px;
+    width: 70%;
+    top: 100px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+
+  #formFloatingLog{
+    margin-left: 10%;
+    margin-right: 10%;
+    top: 50px;
+
+}
+
+.btnlog{
+    font-family: sans-serif;
+    border: none;
+    outline: none;
+    place-self: end;
+    height: 50px;
+    width: 50%;
+    background: #478E8B;
+    color: rgb(255, 255, 255);
+    letter-spacing: 2px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-top: 40px;
+}
+
+.btnlog:hover{
+    background: rgb(230, 229, 229);
+    border: 1px solid;
+    color: #478E8B;
+  }
+
+
+  
+
+  
+ 
+  

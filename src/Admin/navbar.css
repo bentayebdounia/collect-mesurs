@@ -1,0 +1,60 @@
+#divContainer
+{
+    width: 50%;
+    height: 50px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+
+.containerMain
+{
+    margin-top: 100px;
+}
+
+#titre
+{
+    color: #468e8b;
+    padding-bottom: 20px;
+}
+
+.btn1{
+    font-family: sans-serif;
+    border: none;
+    outline: none;
+    place-self: end;
+    height: 50px;
+    width: 50%;
+    background: #478E8B;
+    color: rgb(255, 255, 255);
+    letter-spacing: 2px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-top: 40px;
+}
+
+.btn1:hover{
+    background: rgb(230, 229, 229);
+    border: 1px solid;
+    color: #478E8B;
+  }
+
+
+  .box {
+    padding-bottom: 10px;
+  }
+  
+ .he{
+    color: #468e8b;
+    padding-bottom: 15px;
+ }
+
+  .sepTitle
+  {
+    color: #468e8b;
+    font-size: 20px;
+    font-family: sans-serif;
+  }
+
+  
+
